@@ -1,0 +1,22 @@
+LabVIEW Measurement    
+Writer_Version    2
+Reader_Version    2
+Separator    Tab
+Decimal_Separator    ,
+Multi_Headings    No
+X_Columns    Multi
+Time_Pref    Relative
+Operator    john.doe
+Date    2018/01/01
+Time    00:00:00,0526027679443359375
+***End_of_Header***    
+    
+Channels    1    
+Samples    100    
+Date    2018/01/01    
+Time    00:00:00,0526027679443359375    
+X_Dimension    Time    
+X0    0,0000000000000000E+0    
+Delta_X    0,001000    
+***End_of_Header***        
+X_Value    Dents de scie    Comment
